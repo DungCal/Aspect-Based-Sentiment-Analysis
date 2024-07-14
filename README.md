@@ -2,8 +2,8 @@
 Aspect-Based Sentiment Analysis using Fine-Tuning BERTs 
 
 ## Dependencies
---Python 3.10
---[Pytorch](https://github.com/pytorch/pytorch) 2.0+
+-- Python 3.10
+-- [Pytorch](https://github.com/pytorch/pytorch) 2.0+
 ```
 pip install -r requirements.txt
 ```
