@@ -15,6 +15,8 @@ from transformers import (
     set_seed,
 )
 
+print("Hello world")
+
 from huggingface_hub import login, create_repo, delete_repo
 from model.metric import compute_metrics
 from model.dataloader import load_dataset_from_path, preprocess_function
